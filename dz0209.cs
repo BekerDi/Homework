@@ -191,25 +191,8 @@ namespace dz0209
             }
 
             
-            
-               
-            
-
-             
-
-
-
-
-
-
-
-
 
                 Console.ReadKey();
-
-
-
-
 
 
             }
